@@ -1,0 +1,18 @@
+
+This is the kernel Source code for the Sony Xperia C (MEDIATEK MT6589)
+Linux 3.4.5
+
+
+Building the Kernel:
+********************
+cd to kernel dir
+********************
+
+- Run script "./build.sh xperiac" to begin with the build process.
+
+- Run script "./build.sh clean xperiac" to clean the project
+
+
+
+Have funn :)
+superdragonpt 
